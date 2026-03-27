@@ -1,12 +1,34 @@
-# Oficina de Introdução à Programação em Python
+# Oficina de Introdução à Programação em Python (Inclusão Digital)
 
-Projeto prático de oficina remota com conteúdos introdutórios em Python,
-desenvolvido para fins educacionais e de inclusão digital.
+Este repositório contém uma oficina remota e gratuita de introdução à programação utilizando **Python 3**.
+O material foi organizado em aulas curtas, com exemplos práticos e uma apostila em PDF.
 
-## Conteúdo
-- Aula 01: Introdução ao Python
-- Aula 02: Variáveis
-- Aula 03: Condicionais
-- Aula 04: Laços de repetição
+---
 
-O material é disponibilizado gratuitamente neste repositório.
+## 📌 Objetivo
+Apresentar os primeiros conceitos de programação para iniciantes, de forma simples, acessível e com exemplos executáveis.
+
+---
+
+## 📚 Conteúdo da Oficina
+- **Aula 01 — Introdução:** `aula_01_introducao/introducao.py`
+- **Aula 02 — Variáveis:** `aula_02_variaveis/variaveis.py`
+- **Aula 03 — Condicionais:** `aula_03_condicionais/condicionais.py`
+- **Aula 04 — Laços:** `aula_04_lacos/lacos.py`
+
+---
+
+## 📄 Apostila (PDF)
+A apostila com o conteúdo resumido e exemplos está disponível aqui:
+
+➡️ **material_didatico/apostila_python_basico.pdf**
+
+Link direto (clique no arquivo na pasta):
+- `material_didatico/apostila_python_basico.pdf`
+
+---
+
+## ▶️ Como executar os exemplos
+
+### Opção A — Online (recomendado para iniciantes)
+Use o **Google Colab**:
