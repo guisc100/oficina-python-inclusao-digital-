@@ -11,14 +11,14 @@ print("Nome:", nome)
 print("Cidade:", cidade)
 
 # Exemplo 2: Variáveis numéricas
-idade = 30
-altura = 1.77
+idade = 25
+altura = 1.75
 
 print("Idade:", idade)
 print("Altura:", altura)
 
 # Exemplo 3: Operações com variáveis numéricas
-ano_atual = 2026
+ano_atual = 2025
 ano_nascimento = ano_atual - idade
 
 print("Ano de nascimento:", ano_nascimento)
