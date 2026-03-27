@@ -32,3 +32,12 @@ Link direto (clique no arquivo na pasta):
 
 ### Opção A — Online (recomendado para iniciantes)
 Use o **Google Colab**:
+1. Acesse: https://colab.research.google.com/
+2. Crie um notebook
+3. Copie e cole o conteúdo dos arquivos `.py` e execute
+
+### Opção B — No computador (VS Code)
+1. Instale o Python 3: https://www.python.org/downloads/
+2. Abra o terminal e verifique:
+   ```bash
+   python --version
